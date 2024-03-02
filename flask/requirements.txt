@@ -1,0 +1,13 @@
+blinker==1.7.0
+click==8.1.7
+Flask==3.0.2
+-e git+https://github.com/shoeffner/Flask-Websockets.git@32ae289183f13b879c01ffdc29df5909611a4fee#egg=Flask_Websockets
+gevent==24.2.1
+gevent-websocket==0.10.1
+greenlet==3.0.3
+itsdangerous==2.1.2
+Jinja2==3.1.3
+MarkupSafe==2.1.5
+Werkzeug==3.0.1
+zope.event==5.0
+zope.interface==6.2
